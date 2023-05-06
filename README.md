@@ -40,7 +40,7 @@ Make sure you put correct env varibles then
 
 ## Support
 
-For support, join the [discord](https://discord.gg/KrCNjJaRPt)
+For support, join the [discord](https://discord.gg/wZXuYGKGwR)
 
 
 ## License
