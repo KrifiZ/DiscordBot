@@ -51,7 +51,7 @@ class App {
 		const guilds = await this.client.guilds.fetch();
 
 		console.log(`Updating commands for ${guilds.size} guilds...`);
-
+		
 		for (const guild of guilds.values()) {
 			try {
 				this.client.application?.commands.set([]);

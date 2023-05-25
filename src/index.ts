@@ -5,7 +5,8 @@ import { MyClient } from "./MyClient";
 
 config();
 
-const client = new MyClient([
+
+const client = MyClient.getInstance([
 	GatewayIntentBits.Guilds,
 	GatewayIntentBits.GuildMessages,
 ]);
